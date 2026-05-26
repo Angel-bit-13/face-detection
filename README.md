@@ -1,4 +1,4 @@
 ## Screenshot
 
-![face detection](face detection.png)
+![face-detection](face detection.png)
 
